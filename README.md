@@ -20,5 +20,3 @@ Objective of this project is to find a way to estimate the value in the *charges
     *  GradientBoosting, 
     *  KNN, 
     *  XGBoost
-
-1
